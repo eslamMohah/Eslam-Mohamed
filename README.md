@@ -1,6 +1,5 @@
 # Eslam-Mohamed
 
- ### 👋 Hey there, I'm **Nikita**,
 
 L3 Software Engineer based in 🇷🇸 **Belgrade**. 
 
